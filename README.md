@@ -1,4 +1,4 @@
-# LoRA_Fine-Tuning
+# LoRA Fine-Tuning
 
 ## Problem Statement
 Fine-tuning LLMs on domain-specific tasks enhances their performance in real-world applications. This project involves selecting a dataset, model, and fine-tuning framework to adapt a base model for medical reasoning, an essential use case in healthcare AI systems.
